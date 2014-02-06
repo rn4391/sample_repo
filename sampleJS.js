@@ -1,1 +1,3 @@
-Adding another JS file
+function() {
+ Ading another JS file
+}
